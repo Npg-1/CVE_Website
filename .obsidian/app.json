@@ -3,5 +3,9 @@
   "readableLineLength": true,
   "showLineNumber": true,
   "spellcheck": false,
-  "useTab": false
+  "useTab": false,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "current",
+  "newFileFolderPath": "이미지",
+  "attachmentFolderPath": "이미지"
 }
