@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "출제된 CVE 중에서 푼 것/CVE-2025-29775(강민우).md",
+                "file": "CVE 웹사이트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CVE-2025-29775(강민우)"
+              "title": "CVE 웹사이트"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f03a723e7844ef0f",
@@ -186,13 +185,17 @@
   },
   "active": "db17f4618dcb3fb0",
   "lastOpenFiles": [
+    "CVE 웹사이트.md",
+    "ㅁ.md",
+    "CVE/CVE-2024-23897/CVE-2024-23897 보고서-찐 최종.pdf",
     "CVE/CVE-2024-23897/CVE-2024-23897 보고서.pdf",
+    "출제된 CVE 중에서 푼 것/apache - 김정우 (cve-2021-41773).md",
+    "출제된 CVE 중에서 푼 것/apache - 박래욱 (cve-2021-41773).md",
+    "출제된 CVE 중에서 푼 것/CVE-2025-29775(강민우).md",
+    "출제된 CVE 중에서 푼 것/CVE-2021-21315(유승원).md",
     "CVE/CVE-2024-23897/설명.md",
     "CVE/새 폴더/새 텍스트 문서.txt",
     "CVE/새 폴더",
-    "CVE/CVE-2024-23897/CVE-2024-23897 보고서-찐 최종.pdf",
-    "출제된 CVE 중에서 푼 것/CVE-2025-29775(강민우).md",
-    "CVE 웹사이트.md",
     "CVE-2024-23897 보고서.pdf",
     "이미지/Pasted image 20260326110431.png",
     "이미지/Pasted image 20260326110016.png",
